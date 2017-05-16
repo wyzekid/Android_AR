@@ -1,0 +1,4 @@
+#Sun May 14 21:58:03 MSK 2017
+base.0=G\:\\Android\\Android_projects\\Vuforia_sample_Gradle\\Test 5_testing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\Android\\Android_projects\\Vuforia_sample_Gradle\\Test 5_testing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

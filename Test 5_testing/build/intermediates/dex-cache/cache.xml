@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Android\Android_projects\Vuforia_sample_Gradle\Test 5_testing\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c069a74f9bf643fd3493eec4a58f062f05ee439">
+        <dex dex="G:\Android\Android_projects\Vuforia_sample_Gradle\Test 5_testing\build\intermediates\pre-dexed\debug\Vuforia_11617a3fc35cbcb0f6e5de7176428c8851bcf7a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android\Android_projects\Vuforia_sample_Gradle\Test 5_testing\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd4f26be7d7248ef9956ea6a95774bb0865484a5">
+        <dex dex="G:\Android\Android_projects\Vuforia_sample_Gradle\Test 5_testing\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_de74326f2ea63e97dcea2e4d8afe2f000c0f192e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android\Android_projects\Vuforia_sample_Gradle\Test 5_testing\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b541b7c350268dea27bb061eb4df5424e5aed649">
+        <dex dex="G:\Android\Android_projects\Vuforia_sample_Gradle\Test 5_testing\build\intermediates\pre-dexed\debug\unity-classes_3ff85044324f72afd0ea93a3983903db913fdefc.jar" />
+    </item>
+
+</items>
